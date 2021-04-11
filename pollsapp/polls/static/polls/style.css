@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Brush+Script&display=swap');
+li a {
+    font-family : 'Jua', sans-serif;
+    color : black
+}
+
+h1 {
+    font-family : 'Jua', sans-serif;
+    color : green
+}
+
+li {
+    font-family : 'Jua', sans-serif;
+    color : black
+}
